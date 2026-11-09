@@ -196,7 +196,7 @@
     {
       "id": "mistan-kh/grok-obsidian",
       "name": "Grok Obsidian",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "MistanKh",
         "github": "MistanKh"
@@ -204,14 +204,14 @@
       "source": "https://github.com/MistanKh/pebrel-grok-theme",
       "license": "MIT",
       "archive": {
-        "url": "https://github.com/MistanKh/pebrel-grok-theme/releases/download/v1.0.1/grok-obsidian.pebrel-theme.zip",
-        "sha256": "8ec672a367de23eb7cd61eb6f7318de6c3caa3749c08c947e9fc08b666e4788f",
+        "url": "https://github.com/MistanKh/pebrel-grok-theme/releases/download/v1.0.2/grok-obsidian.pebrel-theme.zip",
+        "sha256": "d9585e72498bd49385a7a1525a898b50a0ade23ae1eae900b16f5142d088de34",
         "bytes": 7946
       },
       "unpacked_bytes": 7700,
       "video_bytes": 0,
       "description": "Graphite chrome, an extra-dark tabs pane, softened ivory terminal text, and a single desaturated steel accent. Colors-only; tested with Pebrel 2.4.0 on Windows 11.",
-      "preview": "https://raw.githubusercontent.com/MistanKh/pebrel-grok-theme/v1.0.1/previews/grok-obsidian.png",
+      "preview": "https://raw.githubusercontent.com/MistanKh/pebrel-grok-theme/v1.0.2/previews/grok-obsidian.png",
       "tags": [
         "dark",
         "colors-only"
